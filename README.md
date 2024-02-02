@@ -5,4 +5,4 @@ En esta práctica debes crear un nodo de ROS 2 que cuando se lance haga avanzar 
 1. el bumper del robot detecte la colisión con un obstáculo, ó
 2. hayan pasado 5 segundos.
 
-Entonces el robot se parará y el nodo finalizará su ejecución. 
+Entonces el robot se parará. 
