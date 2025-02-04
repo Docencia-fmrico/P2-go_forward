@@ -1,4 +1,4 @@
-# 2024-P2-GoForward
+# P2-go_forward
 
 En esta práctica debes crear un nodo de ROS 2 que cuando se inicie haga avanzar el robot Kobuki a una velocidad moderada (0.2-0.4) hasta que:
 
